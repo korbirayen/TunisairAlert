@@ -66,7 +66,7 @@ This allows for easy dissemination of the report to a wider audience, and also a
 - You need to obtain a token from airlabs.co and add it to the `.env` file located in the root directory of the project.
 - You also need to obtain Twitter API codes and add them to the `.env` file. [See tutorial](https://www.mattcrampton.com/blog/step_by_step_tutorial_to_post_to_twitter_using_python_part_two-posting_with_photos/) and past the information in `.env`
 
-The `.env` file will loke like this
+The `.env` file will look like this
 ```
 consumer_key=
 consumer_secret=
